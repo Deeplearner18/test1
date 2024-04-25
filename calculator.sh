@@ -1,5 +1,5 @@
 #!/bin/bash
 
-#Addition of 2 no.s:
-x=a+b
+#ohiidhihdAddition of 2 no.s:
+
 y=a-b
